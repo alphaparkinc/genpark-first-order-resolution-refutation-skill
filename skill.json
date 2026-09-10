@@ -1,0 +1,15 @@
+{
+  "name": "genpark-first-order-resolution-refutation-skill",
+  "version": "1.0.0",
+  "description": "First-Order Logic (FOL) resolution refutation automated theorem prover deriving empty clause contradictions for unsatisfiability proofs.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "resolution-refutation",
+    "theorem-proving",
+    "formal-logic",
+    "first-order-logic"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
